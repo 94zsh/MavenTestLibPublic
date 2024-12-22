@@ -1,0 +1,2 @@
+# MavenTestLibPublic
+zzzzzz
